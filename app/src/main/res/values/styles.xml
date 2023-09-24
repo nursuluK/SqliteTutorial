@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Основные настройки стиля -->
+        <item name="android:navigationIcon">@null</item>
+        <item name="colorPrimary">@color/material_dynamic_primary0</item>
+        <item name="colorPrimaryDark">@color/design_default_color_background</item>
+        <item name="colorAccent">@color/material_on_surface_emphasis_high_type</item>
+    </style>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SqliteTutorial</string>
+    <string name="update">Update Book</string>
+</resources>
